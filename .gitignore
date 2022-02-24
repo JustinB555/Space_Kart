@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Unreal_Game/Saved/Logs/Unreal_Game.log
+Unreal_Game/Saved/Config/WindowsEditor/Engine.ini
+Unreal_Game/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Unreal_Game/Saved/Autosaves/PackageRestoreData.json
